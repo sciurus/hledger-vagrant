@@ -6,6 +6,10 @@ hledger offers both [a tutorial](http://hledger.org/step-by-step.html) and [a ma
 
 hledger installation is difficult on non-linux systems. The purpose of this repository is to make it easier to use on them via Vagrant.
 
+## Recording Transactions without hledger ##
+
+Because it is just a text file, you don't even need to install hledger to update the ledger file! Simply open _hledger.journal_ in your text editor of choice and add a new entry. The file format is for a basic entry is [described here](http://ledger-cli.org/3.0/doc/ledger3.html#The-Most-Basic-Entry), and there is a sample transaction already in the file.
+
 ## Accessing hledger ##
 
 You can interact with hledger either through a command line interface or from a web interface. Before doing either, you must 

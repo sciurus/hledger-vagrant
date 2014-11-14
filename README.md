@@ -28,7 +28,7 @@ When you are done
 ### From a Web Browser ###
 
 1. Run `vagrant up`
-1. Access http://localhost:5000/ from your web browser
+1. Access [localhost:5000](http://localhost:5000) from your web browser
 
 When you are done
 

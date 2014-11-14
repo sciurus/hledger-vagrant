@@ -14,7 +14,7 @@ Because it is just a text file, you don't even need to install hledger to update
 
 You can interact with hledger either through a command line interface or from a web interface. Before doing either, you must 
 
-1. [install virtualbox and vagrant](https://www.vagrantup.com/)
+1. Install [virtualbox](https://www.virtualbox.org/wiki/Downloads) and [vagrant](https://www.vagrantup.com/downloads)
 1. Clone this git repository
 1. Open a terminal and change directories to where you cloned this git repository
 
